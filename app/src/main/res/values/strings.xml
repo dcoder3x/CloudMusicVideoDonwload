@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Netease Video Download</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guide">如何使用？\n 1.在网易云音乐中点击分享，选择分享到站外的更多选项。
+    \n 2.选择“网易云音乐视频下载”应用。\n 3.可以根据分享信息自定义一个合适的文件名，点击下载。\n\n
+    注意：下载的视频文件在Android/data/com.aaa3/files/Downloads/目录下，卸载该应用时系统会自动删除
+    已下载的文件及目录，所以在卸载应用前可以将视频移动到其它目录。</string>
+</resources>
+
